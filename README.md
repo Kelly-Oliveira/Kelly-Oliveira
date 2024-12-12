@@ -2,7 +2,7 @@
 
 👩🏽‍💻   Eu trabalho com suporte de informática e estou estudando front-end, atualmente participo de alguns projetos na parte de front-end no meu trabalho.
 
-💜   Sou aluna da turma ON23 da Reprograma (Front-End)
+💜   Fui aluna da turma ON23 da Reprograma (Front-End)
 
  <img align="left" alt="icon OBC" height="15" width="15" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png">Sou aluna do curso de Fullstack JavaScript da One Bit Code
 
